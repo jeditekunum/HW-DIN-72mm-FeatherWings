@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SingleWing-eagle-import)(type Legacy)(uri ${KIPRJMOD}/SingleWing-eagle-import.lib)(options "")(descr ""))
+  (lib (name DoubleWing-eagle-import)(type Legacy)(uri ${KIPRJMOD}/DoubleWing-eagle-import.lib)(options "")(descr ""))
+  (lib (name TripleWing-eagle-import)(type Legacy)(uri ${KIPRJMOD}/TripleWing-eagle-import.lib)(options "")(descr ""))
+)

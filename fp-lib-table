@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "SingleWing")(type KiCad)(uri "$(KIPRJMOD)/SingleWing.pretty")(options "")(descr ""))
+  (lib (name "DoubleWing")(type KiCad)(uri "$(KIPRJMOD)/DoubleWing.pretty")(options "")(descr ""))
+  (lib (name "TripleWing")(type KiCad)(uri "$(KIPRJMOD)/TripleWing.pretty")(options "")(descr ""))
+)
